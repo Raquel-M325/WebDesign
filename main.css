@@ -1,0 +1,60 @@
+
+body{
+    color: black ;
+    background-color: #F9F1DC;
+    
+}
+
+h1{
+   text-align: center;
+   
+
+}
+
+h2 img{
+    text-align: center;
+    border-top: 2px solid #F5BD26;
+    border-bottom: 2px solid #F5BD26;
+    width: 100%;
+
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    border-bottom: 2px solid #faeac2;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+figure{
+    text-align: center;
+
+}
+
+
+address{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+
+}
+main {
+    margin: 0 auto;
+    width: 70em;
+}
+
+nav a{
+    display: inline-block;
+    border: 1px solid #addd;
+    padding: 1em 2em;
+    text-decoration: none;
+    color: black;
+
+}
