@@ -50,11 +50,18 @@ main {
     width: 70em;
 }
 
-nav a{
+nav li a{
+    
     display: inline-block;
-    border: 1px solid #addd;
-    padding: 1em 2em;
+    border: 2px solid yellow;
+    padding: 1em 10.7em;
     text-decoration: none;
     color: black;
+    background-color: white;
 
+}
+
+nav li{
+    display: inline-block;
+    text-align: center;
 }
