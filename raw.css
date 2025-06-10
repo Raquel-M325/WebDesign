@@ -1,0 +1,70 @@
+body{
+    background-color: #F9F1DC;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+   
+}
+
+h1{
+    text-align: center;
+}
+
+
+h2{
+    text-align: center ;
+    font-style: italic;
+    
+}
+
+li.atual{ 
+    background-color: rgb(255, 255, 255);
+    color:black;
+
+}
+
+table{ 
+    border-collapse: collapse;
+    max-width: 70em;
+    margin: 0 auto; 
+    
+    /*ajuda para ficar no centro, se eu quiser colocar esquerda ou direita, colocar margin left ou margin right*/
+}
+
+td, th{
+    padding: 1em;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 0 auto; 
+    margin-top: 2em;
+    
+}
+
+tr:nth-child(odd){ /*odd: ímpar; já o even: par ou números inteiros...*/
+    background-color: #ffdd7e;
+    
+}
+
+aside{
+    background-color: #F9F1DC;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 2px solid #ffda74;
+
+}
+
+
+nav li a{ 
+    display: inline-flex;
+    border: 1px solid black;
+    padding: 1em 8em;
+    text-decoration: none;
+    color: black;
+    max-width: 70em;
+    margin: 0 auto;
+
+}
+
+nav li{
+    display: inline-flex;
+    text-align: center;
+}

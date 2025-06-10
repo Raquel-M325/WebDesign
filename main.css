@@ -1,4 +1,5 @@
 
+
 body{
     color: black ;
     background-color: #F9F1DC;
@@ -8,7 +9,6 @@ body{
 h1{
    text-align: center;
    
-
 }
 
 h2 img{
@@ -50,14 +50,21 @@ nav li a{
     
     display: inline-block;
     border: 2px solid yellow;
-    padding: 1em 10.7em;
+    padding: 1em 7em;
     text-decoration: none;
     color: black;
     background-color: white;
+    text-align: center;
 
 }
 
 nav li{
     display: inline-block;
-    text-align: center;
+   
+}
+
+picture img{
+    margin: 0 auto;
+    max-width: 70em;
+    display: block;
 }
