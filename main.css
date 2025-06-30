@@ -55,11 +55,13 @@ nav li a{
     color: black;
     background-color: white;
     text-align: center;
+    
 
 }
 
 nav li{
     display: inline-block;
+    margin: 0 2em 0 4em;
    
 }
 
